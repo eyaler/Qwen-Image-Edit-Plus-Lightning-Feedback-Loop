@@ -1,5 +1,7 @@
 # Qwen-Image-Edit-Plus-Lightning-Feedback-Loop
 
+colab: https://colab.research.google.com/github/eyaler/Qwen-Image-Edit-Plus-Lightning-Feedback-Loop/blob/main/Qwen_Image_Edit_Plus_Lightning_Feedback_Loop.ipynb
+
 based on: https://github.com/radames/nano-banana-loop
 
 requires: A100 High-RAM
